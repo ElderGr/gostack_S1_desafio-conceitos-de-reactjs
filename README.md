@@ -15,7 +15,7 @@ Para a execução do projeto em seu ambiente local é necessário possuir instal
 
 ## 📃 Guia de utilização
 Link para a API que o frontend está consumindo
-> https://github.com/ElderGr/GoStack_S1_desafio-conceitos-de-node
+> https://github.com/ElderGr/gs_s1_desafio-conceitos-de-node
 
 Para interagir com o frontend é necessário executar a API acima.
 
